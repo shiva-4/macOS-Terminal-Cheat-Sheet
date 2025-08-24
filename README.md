@@ -14,6 +14,7 @@ uname -a          # kernel/system info
 sw_vers           # macOS version
 date              # current date/time
 uptime            # system uptime/load
+'''
 
 ## **Files and Folders**
 
